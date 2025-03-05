@@ -1,6 +1,6 @@
 # Fake audio example demo
 
-Supplementary material containing a selection of fake audio samples from different vocoders employed in our experiments[*paper*](https://github.com/blindconf/fingerprint/).
+Supplementary material containing a selection of fake audio samples from different vocoders employed in our experiments [*paper*](https://github.com/blindconf/fingerprint/).
 
 These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ-Speech-Dataset/).
 
