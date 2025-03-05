@@ -6,7 +6,7 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 
 ###### LJ001-0001
 <pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition</em>
-</pre>;
+</pre>
 **Real audio**:
  <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0001" type="audio/wav" />
@@ -79,7 +79,7 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 
 ###### LJ001-0002
 <pre> Transcription:       <em>in being comparatively modern.</em>
-</pre>;
+</pre>
 **Real audio**:
  <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0002" type="audio/wav" />
