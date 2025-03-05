@@ -6,13 +6,11 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 
 ###### LJ001-0001
 <pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition</em>
-</pre> &nbsp;
-
+</pre>;
 **Real audio**:
  <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0001" type="audio/wav" />
 </audio>
-
 <div style="display: flex; gap: 10px;">
     <div>
         <strong>MelGAN Large:</strong>
@@ -81,13 +79,11 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 
 ###### LJ001-0002
 <pre> Transcription:       <em>in being comparatively modern.</em>
-</pre> &nbsp;
-
+</pre>;
 **Real audio**:
  <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0002" type="audio/wav" />
 </audio>
-
 <div style="display: flex; gap: 10px;">
     <div>
         <strong>MelGAN Large:</strong>
@@ -135,7 +131,7 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
         </audio>
     </div>
     <div>
-        <strong>Harmonic Noise source Filter:</strong>
+        <strong>Harmonic Noise Source Filter:</strong>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/hnsf_LJ001-0002" type="audio/wav" />
         </audio>
