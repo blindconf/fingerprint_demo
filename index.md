@@ -5,7 +5,7 @@ Supplementary material containing a selection of fake audio samples from differe
 These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ-Speech-Dataset/).
 
 ###### LJ001-0001
-<pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition</em>
+<pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition.</em>
 </pre>
 **Real audio**:
  <audio style="width:320px" controls="controls">
@@ -78,7 +78,7 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 </div>
 
 ###### LJ001-0002
-<pre> Transcription:       <em>in being comparatively modern.</em>
+<pre> Transcription:       <em>In being comparatively modern.</em>
 </pre>
 **Real audio**:
  <audio style="width:320px" controls="controls">
