@@ -1,4 +1,4 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Model Attribution and Detection of Synthetic Speech via Vocoder Fingerprints]
+title: [Lightweight Model Attribution and Detection of Synthetic Speech via Audio Residual Fingerprints]
