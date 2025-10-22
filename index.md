@@ -7,10 +7,11 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 ###### LJ001-0001
 <pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition.</em>
 </pre>
-**Real audio**:
+**Real Audio**:
  <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0001" type="audio/wav" />
 </audio>
+**Synthetic Samples**:
 <div style="display: flex; gap: 10px;">
     <div>
         <strong>MelGAN Large:</strong>
@@ -77,19 +78,33 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
     </div>
 </div>
 
-###### Example
-
-| Model | Audio Sample |
-|--------|---------------|
-| Real |<div>
-			<strong>MelGAN Large:</strong>
-			<audio style="width:320px" controls="controls">
-				<source src="audio_clips/mg_l_LJ001-0002" type="audio/wav" />
-			</audio>
-		</div> |
-| MelGAN Large | [▶️ Listen](https://yourcdn.com/audio/mg_l_LJ001-0001.wav) |
-| Avocodo | [▶️ Listen](https://yourcdn.com/audio/avo_LJ001-0001.wav) |
-| HiFi-GAN | [▶️ Listen](https://yourcdn.com/audio/hf_g_LJ001-0001.wav) |
+**Audio Corruption Effects**:
+<div style="display: flex; gap: 10px;">
+    <div>
+        <strong>Echo Effect (strength 0.5 and 500ms delay):</strong>
+        <audio style="width:320px" controls="controls">
+            <source src="audio_clips/LJ001-0001_05_100" type="audio/wav" />
+        </audio>
+    </div>
+    <div>
+        <strong>Background Noise:</strong>
+        <audio style="width:320px" controls="controls">
+            <source src="audio_clips/LJ001-0001_noise_20" type="audio/wav" />
+        </audio>
+    </div>
+    <div>
+        <strong>Reverberation:</strong>
+        <audio style="width:320px" controls="controls">
+            <source src="audio_clips/LJ001-0001_reberb_typ1" type="audio/wav" />
+        </audio>
+    </div>
+    <div>
+        <strong>MP3 Compression:</strong>
+        <audio style="width:320px" controls="controls">
+            <source src="audio_clips/LJ001-0001_mp3" type="audio/wav" />
+        </audio>
+    </div>
+</div>
 
 ###### LJ001-0002
 <pre> Transcription:       <em>In being comparatively modern.</em>
