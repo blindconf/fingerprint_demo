@@ -10,14 +10,15 @@ RFPs achieve **near-perfect AUROC (≈1.0)** in distinguishing target synthesis 
 Under realistic audio perturbations — such as noise, echo, and compression — RFPs maintain high attribution accuracy.
 When perturbations are severe, performance can be effectively restored through simple data augmentation during RFP construction.
 
-###### LJ001-0001
-<pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition.</em>
-</pre>
-**Real Audio**:
- <audio style="width:320px" controls="controls">
+###### Real Audio Sample: LJ001-0001.wav
+<audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0001" type="audio/wav" />
 </audio>
-**Synthetic Samples**:
+
+<pre> Transcription:       <em>Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition.</em>
+</pre>
+
+**Synthetic Audio Samples**:
 <div style="display: flex; gap: 10px;">
     <div>
         <span>MelGAN Large:</span>
@@ -112,13 +113,15 @@ When perturbations are severe, performance can be effectively restored through s
     </div>
 </div>
 
-###### LJ001-0002
-<pre> Transcription:       <em>In being comparatively modern.</em>
-</pre>
-**Real audio**:
- <audio style="width:320px" controls="controls">
+###### Real Audio Sample: LJ001-0002.wav
+<audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0002" type="audio/wav" />
 </audio>
+
+<pre> Transcription:       <em>In being comparatively modern.</em>
+</pre>
+
+**Synthetic Audio Samples**:
 <div style="display: flex; gap: 10px;">
     <div>
         <span>MelGAN Large:</span>
