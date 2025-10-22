@@ -14,31 +14,31 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
 **Synthetic Samples**:
 <div style="display: flex; gap: 10px;">
     <div>
-        <strong>MelGAN Large:</strong>
+        <span>MelGAN Large:</span>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/mg_l_LJ001-0001" type="audio/wav" />
         </audio>
     </div>
     <div>
-        <strong>Avocodo:</strong>
+        <span>Avocodo:</span>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/avo_LJ001-0001" type="audio/wav" />
         </audio>
     </div>
     <div>
-        <strong>Big V GAN:</strong>
+        <span>Big V GAN:</span>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/bvg_LJ001-0001" type="audio/wav" />
         </audio>
     </div>
     <div>
-        <strong>HiFi GAN:</strong>
+        <span>HiFi GAN:</span>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/hf_g_LJ001-0001" type="audio/wav" />
         </audio>
     </div>
     <div>
-        <strong>Multi-band MelGAN:</strong>
+        <span>Multi-band MelGAN:</span>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/mb_mg_LJ001-0001" type="audio/wav" />
         </audio>
@@ -87,7 +87,7 @@ These samples are sourced from the [*LJ Speech Dataset*](https://keithito.com/LJ
         </audio>
     </div>
     <div>
-        <strong>Background Noise:</strong>
+        <strong>Background Noise (Avg. SNR of 17.96 dB):</strong>
         <audio style="width:320px" controls="controls">
             <source src="audio_clips/LJ001-0001_noise_20" type="audio/wav" />
         </audio>
