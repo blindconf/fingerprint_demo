@@ -10,7 +10,7 @@ RFPs achieve **near-perfect AUROC (≈1.0)** in distinguishing target synthesis 
 Under realistic audio perturbations — such as noise, echo, and compression — RFPs maintain high attribution accuracy.
 When perturbations are severe, performance can be effectively restored through simple data augmentation during RFP construction.
 
-##### Real Audio Sample: LJ001-0001.wav
+#### Real Audio Sample: LJ001-0001.wav
 <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0001" type="audio/wav" />
 </audio>
@@ -113,7 +113,7 @@ When perturbations are severe, performance can be effectively restored through s
     </div>
 </div>
 
-##### Real Audio Sample: LJ001-0002.wav
+#### Real Audio Sample: LJ001-0002.wav
 <audio style="width:320px" controls="controls">
 	<source src="audio_clips/real_LJ001-0002" type="audio/wav" />
 </audio>
